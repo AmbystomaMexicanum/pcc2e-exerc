@@ -85,3 +85,5 @@ del dinner_invitees[0]
 
 print(f"Current list: {dinner_invitees}")
 print(f'Current number of guests: {len(dinner_invitees)}')
+
+# All usages of the function len() corresponds to the requirements of exerc. 3-9.
